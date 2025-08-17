@@ -1,0 +1,20 @@
+# Git ignore file
+
+# Credentials
+credentials.json
+token.json
+youtube_token.json
+client_secrets.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# API keys
+.api_key
